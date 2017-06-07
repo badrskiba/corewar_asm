@@ -13,8 +13,8 @@
 #ifndef ASM_H
 # define ASM_H
 
-# include "../libft/ft_printf.h"
-# include "../op.h"
+# include "libft/ft_printf.h"
+# include "op.h"
 # include <sys/types.h>
 # include <sys/stat.h>
 # include <fcntl.h>
